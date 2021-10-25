@@ -1,0 +1,2 @@
+# Coronatracker
+In this project I have designed and built a coronavirus tracker.This COVID Tracking Project("CORONA TRACKER") obtains, organizes, and publishes high-quality data required to understand and respond to the COVID-19 outbreak all over the world.    Not only the current data but it also shows graph depicting the cases which makes the data easier to understand and track.It allows user to choose a specific country and the tracker will be updated accordingly.
